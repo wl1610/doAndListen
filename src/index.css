@@ -1,0 +1,17 @@
+/*添加or覆盖 全局样式*/
+html body, html p, html ul, html li, html h1, html h2, html h3, html h4, html h5, html h6 {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+body {
+  width: 100% !important;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,3 @@
+include:
+  - project: 'webdev/gitlab-ci'
+    file: '/frontend/react.gitlab-ci.yaml'
